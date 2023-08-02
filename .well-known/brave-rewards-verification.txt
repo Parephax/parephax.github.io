@@ -1,4 +1,4 @@
 This is a Brave Creators publisher verification file.
 
 Domain: parephax.github.io
-Token: 0c3fc9fbde6005077731f077425b7f1cd68fac1bc3268193828e9eaf1e3edc6b
+Token: 200874a2cc821c71f1083b6c8db4025ced0e5596878a54180ff2d46c8f6c384c
